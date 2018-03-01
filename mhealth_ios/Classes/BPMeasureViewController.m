@@ -65,8 +65,6 @@ bool bpErrorLayoutShow=false;
 - (void)viewDidLoad
 {
     
-    
-    
     [super viewDidLoad];
      self.meaningAndsolutionVIew.hidden=YES;
     [self reloadViewText];
