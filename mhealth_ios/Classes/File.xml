@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <status>succ</status>
+	<records>
+        <record>
+            <trainlv>1</trainlv>
+            <traindays>7</traindays>
+            <duration>1800</duration>
+            <pace>70</pace>
+            <paceid>1</paceid>
+            <days>5</days>
+            <caloburnt>300</caloburnt>
+        </record>
+        <record>
+            <trainlv>2</trainlv>
+            <traindays>7</traindays>
+            <duration>2700</duration>
+            <pace>70</pace>
+            <paceid>1</paceid>
+            <days>5</days>
+            <caloburnt>450</caloburnt>
+        </record>
+        <record>
+            <trainlv>3</trainlv>
+            <traindays>7</traindays>
+            <duration>3600</duration>
+            <pace>90</pace>
+            <paceid>2</paceid>
+            <days>5</days>
+            <caloburnt>600</caloburnt>
+        </record>
+        <record>
+            <trainlv>4</trainlv>
+            <traindays>7</traindays>
+            <duration>3500</duration>
+            <pace>110</pace>
+            <paceid>3</paceid>
+            <days>5</days>
+            <caloburnt>800</caloburnt>
+        </record>
+	</records>
+</response>
+
+
+
+
+
+<walking>
+    <reminder>
+        <id>444</id>
+        <type>K</type>
+        <startdate>2013-11-11</startdate>
+        <enddate>2013-11-17</enddate>
+        <time>10:00</time>
+        <repeat>1,2,3,4,5,6,7</repeat>
+        <on>1</on>
+        <createtime>2013-10-24 00:00</createtime>
+        <servertime>2013-11-05 11:37</servertime>
+    </reminder>
+    …
+</walking>
+<adhoc>
+    <reminder>
+        <id>464</id>
+        <type>A</type>
+        <startdate>2013-11-16</startdate>
+        <time>13:00</time>
+        <endtime>15:00</endtime>
+        <title>Dr. Wong Appointment</title>
+        <note>Bring ECG Records</note>
+        <on>1</on>
+        <createtime>2013-10-24 00:00</createtime>
+        <servertime>2013-11-06 16:09</servertime>
+    </reminder>
+    ...
+</adhoc>
+<medications>
+    <medication>
+        <medid>2</medid>
+        <title>Red Rounded Pill</title>
+        <dosage>2</dosage>
+        <meal>2</meal>
+        <servertime>2013-10-24 15:46</servertime>
+        <reminders>
+            <reminder>
+                <id>5</id>
+                <type>M</type>
+                <time>09:00</time>
+                <repeat>1,2,3,4,5,6,7</repeat>
+                <on>1</on>
+                <ticken>Y</ticken>
+                <createtime>2013-10-24 15:40</createtime>
+                <servertime>2013-10-24 15:40</servertime>
+            </reminder>
+            ...
+        </medication>
+        ...
+    </medications>
+</respons
+
+succ 2013-04-22
+    2014-04-16 106 66 63
+    2014-03-04 14:44
+    
+    2014-03-04 15:02 116 70 68
+    2014-02-21 00:04
+    
+    2014-02-21 10:52 N 135 80 87
+    2014-02-21 00:40
+    
+    2014-02-21 10:53 N 121 69 76
+    2014-03-04 10:40
+    
+    2014-03-04 11:23 Y 112 60 75
+    2014-03-04 11:09
+    
+    2014-03-04 11:28 N 120 70 73
+    2014-03-04 13:55
+    
+    2014-03-04 14:13 N 106 66 63
+    2014-03-04 14:44
+    
+    2014-03-04 15:02 N

@@ -1,0 +1,87 @@
+
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
+
+
+#define RGBCOLOR(r,g,b) [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:1]
+#define RGBACOLOR(r,g,b,a) [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:(a)]
+
+#define iPhone9 ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(640, 1136), [[UIScreen mainScreen] currentMode].size) : NO)
+
+#define iOS7 ([[[[UIDevice currentDevice] systemVersion] substringToIndex:1] intValue]>=7)
+
+
+#define iOS71 ([[[[UIDevice currentDevice] systemVersion] substringToIndex:3] intValue]<=7)
+
+#define iOS8 ([[[[UIDevice currentDevice] systemVersion] substringToIndex:1] intValue]>=8)
+
+#define iOS9 ([[[[UIDevice currentDevice] systemVersion] substringToIndex:1] intValue]>=9)
+
+#define iPad ([[UIDevice currentDevice].model rangeOfString:@"iPad"].location != NSNotFound)
+
+
+#define BPD @"bp_days.xml"
+#define BPW @"bp_weeks.xml"
+#define BPM @"bp_months.xml"
+
+#define BGD @"bg_days.xml"
+#define BGW @"bg_weeks.xml"
+#define BGM @"bg_months.xml"
+
+#define WEIGHTD @"w_days.xml"
+#define WEIGHTW @"w_weeks.xml"
+#define WEIGHTM @"w_months.xml"
+
+#define CALSD @"cal_days.xml"
+
+#define BP30DA @"bp_30d_average.xml"
+#define BP90DA @"bp_90d_average.xml"
+
+#define BG30DA @"bg_30d_average.xml"
+#define BG90DA @"bg_90d_average.xml"
+
+#define BG30DAF @"bg_30d_f_average.xml"
+#define BG90DAF @"bg_90d_f_average.xml"
+
+#define BG30DAB @"bg_30d_b_average.xml"
+#define BG90DAB @"bg_90d_b_average.xml"
+
+#define BG30DAU @"bg_30d_u_average.xml"
+#define BG90DAU @"bg_90d_u_average.xml"
+
+
+#define W30DA @"w_30d_average.xml"
+#define W90DA @"w_90d_average.xml"
+
+#define CW30DA @"cw_30d_average.xml"
+#define CW90DA @"cw_90d_average.xml"
+
+#define TP30DA @"tp_30d_average.xml"
+#define TP90DA @"tp_90d_average.xml"
+
+#define font45 @"HelveticaNeueLTPro-Lt"
+#define font55 @"HelveticaNeueLTPro-Roman"
+#define font56 @"HelveticaNeue-Italic"
+#define font57 @"HelveticaNeueLTPro-Cn"
+
+#define font65 @"HelveticaNeueLTPro-Md"
+#define font67 @"HelveticaNeueLTPro-MdCn"
+
+#define font76 @"HelveticaNeue-BoldItalic"
+#define font77 @"HelveticaNeueLTPro-BdCn"
+
+#define TYPE_BP 1
+#define TYPE_BG 2
+#define TYPE_HR 3
+#define TYPE_WEIGHT 4
+#define TYPE_BMI 5
+#define TYPE_WALKING 6
+#define TYPE_CALS 7
+#define TYPE_BPALL 8
+#define TYPE_WEIGHT_DB 9
+
+#define BPALL_MOVE_POS 40
+#define WEIGHT_MOVE_POS 50

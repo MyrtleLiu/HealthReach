@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>tc</key>
+	<string>條款及細則</string>
+	<key>howuse_walk</key>
+	<string>健康步行：</string>
+	<key>g_text_1</key>
+	<string>每天60分鐘，每分鐘行120步， </string>
+	<key>label_bp_if_your</key>
+	<string>如果你休息狀態下，你的</string>
+	<key>label_bg_low_2</key>
+	<string>≥ 11.1</string>
+	<key>w_bronze_title</key>
+	<string>銅級</string>
+	<key>label_fasting</key>
+	<string>空腹： </string>
+	<key>label_systolic</key>
+	<string>收縮壓</string>
+	<key>w_silver_title</key>
+	<string>銀級</string>
+	<key>share_tx2</key>
+	<string>輸入8個數目字的本地流動電話號碼，如91234567。</string>
+	<key>cal_target</key>
+	<string>卡路里消耗目標</string>
+	<key>w_walk_text</key>
+	<string>立即按自己步速起行</string>
+	<key>invalid_param</key>
+	<string>The note only support 200 characters.</string>
+	<key>perset_level_tx3</key>
+	<string>設定及更改警示功能的數據指標，需要登記人與健易達用戶一同親臨特許代理辦理。</string>
+	<key>planroute_circu_tx1</key>
+	<string>設定步行     圈數</string>
+	<key>Calendar Note</key>
+	<string>附注:</string>
+	<key>d_text</key>
+	<string>每天90分鐘，每分鐘行140步， 7天內任選5天</string>
+	<key>w_advise</key>
+	<string>建議你在進行任何運動前先徵詢醫護人員的意見。</string>
+	<key>home_title_Route</key>
+	<string>計劃</string>
+	<key>Time2</key>
+	<string>時間2:</string>
+	<key>w_train_title</key>
+	<string>步行計劃</string>
+	<key>personalinfo_birthtitle</key>
+	<string>出生年份</string>
+	<key>label_bg_source</key>
+	<string>香港醫院管理局及美國糖尿病協會</string>
+	<key>tr_stop</key>
+	<string>停止計劃</string>
+	<key>home_title_BloodGlucose</key>
+	<string>
+血糖</string>
+	<key>planroute_duration</key>
+	<string>路程時間：</string>
+	<key>How to use</key>
+	<string>如何使用</string>
+	<key>label_bp_desc_high_1</key>
+	<string>記錄顯示有高血壓危象，必須立刻求診正視。</string>
+	<key>b_text_1</key>
+	<string>每天30分鐘，每分鐘行80步，</string>
+	<key>Starteday</key>
+	<string>六</string>
+	<key>ECG</key>
+	<string>心電圖</string>
+	<key>label_advisory</key>
+	<string>參考</string>
+	<key>planroute_distance</key>
+	<string>距離</string>
+	<key>home_title_Dairy</key>
+	<string>健易達          行事曆</string>
+	<key>label_diastolic_equal</key>
+	<string>舒張壓 = </string>
+	<key>Medicine</key>
+	<string>藥物:</string>
+	<key>weight_unit</key>
+	<string>磅</string>
+	<key>Time3</key>
+	<string>時間3:</string>
+	<key>Calendar Start</key>
+	<string>開始:</string>
+	<key>label_diastolic_high</key>
+	<string> &gt; 110</string>
+	<key>home_title_BloodPressure</key>
+	<string>
+血壓</string>
+	<key>Daily Medication</key>
+	<string>每日服藥</string>
+	<key>Calendar End</key>
+	<string>結束:</string>
+	<key>km_unit</key>
+	<string>公里</string>
+	<key>weight_unit_kg</key>
+	<string>公斤</string>
+	<key>share_result</key>
+	<string>24小時密碼已發送給指定收件者</string>
+	<key>hr_title</key>
+	<string>心跳率</string>
+	<key>howuse_bg</key>
+	<string>量度血糖：</string>
+	<key>label_before_meal</key>
+	<string>餐前：</string>
+	<key>personalinfo_heighttitle</key>
+	<string>身高</string>
+	<key>label_bg_low_1</key>
+	<string>≥ 7</string>
+	<key>label_bg_or_low_2</key>
+	<string> mmol/L(餐後兩小時)</string>
+	<key>confirm_btn</key>
+	<string>確定</string>
+	<key>composite_walk</key>
+	<string>步行持續時間</string>
+	<key>w_gold_title</key>
+	<string>金級</string>
+	<key>chartTime3</key>
+	<string>一個月</string>
+	<key>home_title_Planner</key>
+	<string>步行路線</string>
+	<key>edit</key>
+	<string>編輯</string>
+	<key>label_mmol</key>
+	<string> mmol/L</string>
+	<key>alert_button_txt</key>
+	<string>返回</string>
+	<key>delete</key>
+	<string>刪除</string>
+	<key>heart_rate</key>
+	<string>心跳率</string>
+	<key>howuse_weight</key>
+	<string>量度體重/身體質量指數(BMI)：</string>
+	<key>Time4</key>
+	<string>時間4:</string>
+	<key>planroute_calories</key>
+	<string>消耗卡路里：</string>
+	<key>Calendar Date</key>
+	<string>日期:</string>
+	<key>howuse_bp</key>
+	<string>量度血壓：</string>
+	<key>tr_start</key>
+	<string>開始</string>
+	<key>cal_label</key>
+	<string>卡路里</string>
+	<key>b_text</key>
+	<string>每天30分鐘，每分鐘行80步， 7天內任選5天</string>
+	<key>train_history_finish</key>
+	<string>完成</string>
+	<key>Calendar Title</key>
+	<string>標題:</string>
+	<key>pace_unit</key>
+	<string>步        /分鐘</string>
+	<key>authorised_de</key>
+	<string>特許代理</string>
+	<key>w_train_text</key>
+	<string>專為不同年齡和健康狀況人士制定的計劃</string>
+	<key>plan_route</key>
+	<string>設定步行路線</string>
+	<key>label_mmhg</key>
+	<string> mmHg</string>
+	<key>Others</key>
+	<string>其他</string>
+	<key>skip</key>
+	<string>跳過</string>
+	<key>Events Summary</key>
+	<string>事件日程</string>
+	<key>login_setting</key>
+	<string>登入模式</string>
+	<key>save</key>
+	<string>保存</string>
+	<key>Time5</key>
+	<string>時間5:</string>
+	<key>ok</key>
+	<string>確定</string>
+	<key>share_tx3</key>
+	<string>輸入+國家及地區代碼及國際流通電話號碼，如+8613512345678。</string>
+	<key>Edit</key>
+	<string>編輯</string>
+	<key>Add Event</key>
+	<string>新增事件</string>
+	<key>btn_reset</key>
+	<string>重置</string>
+	<key>Blood Pressure</key>
+	<string>血壓</string>
+	<key>train_history_process</key>
+	<string>進行中</string>
+	<key>train_history_unfinish</key>
+	<string>失敗</string>
+	<key>about_healthreach</key>
+	<string>關於健易達</string>
+	<key>howuse_cal</key>
+	<string>卡路里計算機：</string>
+	<key>sys_title</key>
+	<string>收縮壓</string>
+	<key>start_btn</key>
+	<string>開始</string>
+	<key>Day</key>
+	<string>日</string>
+	<key>duration_label</key>
+	<string>時間</string>
+	<key>Tuesday</key>
+	<string>二</string>
+	<key>dia_title</key>
+	<string>舒張壓</string>
+	<key>home_title_CaloriesReckoner</key>
+	<string>卡路里計算機</string>
+	<key>s_text</key>
+	<string>每天45分鐘，每分鐘行100步， 7天內任選5天</string>
+	<key>Time6</key>
+	<string>時間6:</string>
+	<key>Blood Glucose</key>
+	<string>血糖</string>
+	<key>invalid_session</key>
+	<string>此帳戶已經在另一個裝置登入，請先登出該裝置。</string>
+	<key>cancel</key>
+	<string>取消</string>
+	<key>label_systolic_high</key>
+	<string> &gt; 180</string>
+	<key>btn_ok</key>
+	<string>完成</string>
+	<key>label_set_in_app_level</key>
+	<string>預設您的數據指標</string>
+	<key>cal_unit</key>
+	<string>千卡</string>
+	<key>step_unit</key>
+	<string>步</string>
+	<key>label_systolic_equal</key>
+	<string>收縮壓 = </string>
+	<key>add_weight_title</key>
+	<string>新增</string>
+	<key>w_diamond_title</key>
+	<string>鑽級</string>
+	<key>alert_title_ecg</key>
+	<string>心電圖機</string>
+	<key>s_text_1</key>
+	<string>每天45分鐘，每分鐘行100步，</string>
+	<key>label_systolic_low</key>
+	<string> &gt; 140</string>
+	<key>personalinfo_gendertitle</key>
+	<string>性別</string>
+	<key>resume_btn</key>
+	<string>恢復</string>
+	<key>composite_bmi</key>
+	<string>身體質量指數</string>
+	<key>Before meal</key>
+	<string>餐前</string>
+	<key>chartTime2</key>
+	<string>十四天</string>
+	<key>label_bg_if_your</key>
+	<string>如果你的血糖值是</string>
+	<key>userinfo</key>
+	<string>個人資料</string>
+	<key>history_title</key>
+	<string>過往記錄</string>
+	<key>fisttimeSlideDont</key>
+	<string>不再顯示</string>
+	<key>about</key>
+	<string>關於健易達</string>
+	<key>stop_btn</key>
+	<string>停止</string>
+	<key>w_walk_title</key>
+	<string>隨意行</string>
+	<key>home_title_forHealth</key>
+	<string>健康步行</string>
+	<key>howuse_ecg</key>
+	<string>量度心電圖：</string>
+	<key>alert_title_ecg_msg2</key>
+	<string>Android平台</string>
+	<key>done</key>
+	<string>完成</string>
+	<key>missing_parameter</key>
+	<string>Missing required parameter(s).</string>
+	<key>pace_label</key>
+	<string>步速</string>
+	<key>language</key>
+	<string>語言</string>
+	<key>w_history</key>
+	<string>過往記錄</string>
+	<key>terms</key>
+	<string>健易達服務的條款及細則</string>
+	<key>invalid_parameter</key>
+	<string>The action parameter is invalid.</string>
+	<key>tr_current_title</key>
+	<string>當前進度</string>
+	<key>loginmetho</key>
+	<string>登入模式</string>
+	<key>planroute_action</key>
+	<string>計劃步行路線</string>
+	<key>Monday</key>
+	<string>一</string>
+	<key>composite_cal</key>
+	<string>卡路里消耗</string>
+	<key>Frequency</key>
+	<string>次數:</string>
+	<key>pairing</key>
+	<string>配對</string>
+	<key>presetlevel</key>
+	<string>預設指標</string>
+	<key>Daily Measurement</key>
+	<string>每日量度</string>
+	<key>label_bp_source</key>
+	<string>美國心臟協會</string>
+	<key>share_tx1</key>
+	<string>收件者的流動電話號碼：</string>
+	<key>Month</key>
+	<string>月</string>
+	<key>enqueir</key>
+	<string>查詢：</string>
+	<key>share_tx4</key>
+	<string>重新輸入電話號碼：</string>
+	<key>prepare_measure</key>
+	<string>量度</string>
+	<key>label_bg_desc_low_2</key>
+	<string></string>
+	<key>body_mass</key>
+	<string>身體質量指數(BMI)</string>
+	<key>label_bp_or</key>
+	<string> mmHg or</string>
+	<key>privacy</key>
+	<string>私隱政策</string>
+	<key>privacy_po</key>
+	<string>私隱政策聲明</string>
+	<key>bloodpressure</key>
+	<string>血壓</string>
+	<key>step_label</key>
+	<string>步數</string>
+	<key>g_text</key>
+	<string>每天60分鐘，每分鐘行120步， 7天內任選5天</string>
+	<key>Done</key>
+	<string>完成</string>
+	<key>share_health_data</key>
+	<string>分享健康數據</string>
+	<key>News</key>
+	<string>全新功能</string>
+	<key>distance_label</key>
+	<string>距離</string>
+	<key>share_data_tx1</key>
+	<string>輸入收件者的流動電話號碼，對方會以SMS收到24小時登入密碼，方便從www.healthreach.com.hk/login2查閱你過往的量度記錄。</string>
+	<key>Tirsday</key>
+	<string>四</string>
+	<key>Delete</key>
+	<string>刪除</string>
+	<key>Delete Medicine</key>
+	<string>刪除藥物</string>
+	<key>home_title_Weight</key>
+	<string>體重</string>
+	<key>bloodglucose</key>
+	<string>血糖</string>
+	<key>Type</key>
+	<string>類型:</string>
+	<key>history_data</key>
+	<string>過往記錄</string>
+	<key>frequently</key>
+	<string>常見問題</string>
+	<key>tr_choose</key>
+	<string>請選擇下列其中一項步行計劃，並開始步向健康。</string>
+	<key>alert_title_ecg_msg1</key>
+	<string>只支援</string>
+	<key>home_title_ECG</key>
+	<string>心電圖</string>
+	<key>N/A</key>
+	<string>不適用</string>
+	<key>label_bg_desc_low_1</key>
+	<string>記錄顯示已出現糖尿病跡象 ，請考慮尋求醫護人員診斷。</string>
+	<key>HealthReach Calendar</key>
+	<string>健易達行事曆</string>
+	<key>about_page_toptext</key>
+	<string>健易達鼓勵你透過步行運動、管理飲食及量度健康指數，以轉變生活方式及改善健康。</string>
+	<key>Firday</key>
+	<string>五</string>
+	<key>personalinfo</key>
+	<string>個人資料</string>
+	<key>label_diastolic_low</key>
+	<string> &gt; 90</string>
+	<key>label_bp_desc_low_2</key>
+	<string></string>
+	<key>tr_continue</key>
+	<string>繼續</string>
+	<key>perset_level_tx1</key>
+	<string>預設你的預設指標。當量度數據超出此指標，有關數據讀數會顯示為紅色。</string>
+	<key>label_diastolic</key>
+	<string>舒張壓</string>
+	<key>After meal</key>
+	<string>餐後</string>
+	<key>preset_bg</key>
+	<string>血糖</string>
+	<key>howuse_calendar</key>
+	<string>健易達行事曆：</string>
+	<key>label_after_meal</key>
+	<string>餐後：</string>
+	<key>Dosage</key>
+	<string>份量:</string>
+	<key>sys_error</key>
+	<string>There is the system error.</string>
+	<key>per day</key>
+	<string>每日</string>
+	<key>label_source</key>
+	<string>資料來源：</string>
+	<key>d_text_1</key>
+	<string>每天90分鐘，每分鐘行140步，</string>
+	<key>Exercise</key>
+	<string>運動</string>
+	<key>walkforhealth</key>
+	<string>健康步行</string>
+	<key>personalinfo_circum</key>
+	<string>腰圍</string>
+	<key>chartTime1</key>
+	<string>一星期</string>
+	<key>tr_days</key>
+	<string>7天內任選5天</string>
+	<key>preset_bp</key>
+	<string>血壓</string>
+	<key>Wendsday</key>
+	<string>三</string>
+	<key>label_bp_desc_low_1</key>
+	<string>記錄顯示有第一期高血壓跡象，請考慮尋求醫護人員診斷。</string>
+	<key>chartTime4</key>
+	<string>三個月</string>
+	<key>personalisation</key>
+	<string>個人化</string>
+	<key>label_bp_desc_high_2</key>
+	<string></string>
+	<key>pause_btn</key>
+	<string>暫停</string>
+	<key>dashboard</key>
+	<string>總覽</string>
+	<key>perset_level_tx2</key>
+	<string>建議你在啟用提示功能或之前，先徵詢醫護人員意見，以決定更合適指標。</string>
+	<key>home_title_Walk</key>
+	<string> </string>
+	<key>Cancel</key>
+	<string>取消</string>
+	<key>back</key>
+	<string>返回</string>
+	<key>general</key>
+	<string>一般條款及細則</string>
+	<key>personalinfo_weighttitle</key>
+	<string>體重</string>
+	<key>record_exist</key>
+	<string>此記錄已存在。</string>
+	<key>next_btn</key>
+	<string>下一步</string>
+	<key>Time1</key>
+	<string>時間1:</string>
+	<key>label_bg_or_low_1</key>
+	<string> mmol/L(空腹)或</string>
+	<key>personalinfo_toptx</key>
+	<string>你可以更改以下個人資料：</string>
+	<key>Sunday</key>
+	<string>日</string>
+	<key>food_planner_tx</key>
+	<string>卡路里:</string>
+	<key>food_planner_calunit1</key>
+	<string>千卡/</string>
+	<key>dont_show_again</key>
+	<string>不再顯示</string>
+	<key>start_measurement_now</key>
+	<string>開始量度</string>
+	<key>show_detail_step</key>
+	<string>顯示詳細步驟</string>
+	<key>please_choose_food</key>
+	<string>請選擇食物</string>
+	<key>select_food</key>
+	<string>選擇食物</string>
+	<key>items</key>
+	<string>項目</string>
+	<key>home_title_cals</key>
+	<string>卡路里計算機</string>
+	<key>total_calories</key>
+	<string>卡路里總數:</string>
+	<key>total_calories_cal</key>
+	<string>千卡</string>
+	<key>indication_only</key>
+	<string>以上圖片及卡路里只供參考</string>
+	<key>calorie_burner</key>
+	<string>消耗卡路里</string>
+	<key>to_burn</key>
+	<string>要消耗</string>
+	<key>you_can_walk</key>
+	<string>，你需要步行</string>
+	<key>steps</key>
+	<string>步</string>
+	<key>min</key>
+	<string>/ 分鐘</string>
+	<key>km</key>
+	<string>公里</string>
+	<key>start_walking</key>
+	<string>開始步行</string>
+	<key>planning_route</key>
+	<string>計劃路線</string>
+	<key>use_current_location</key>
+	<string>使用現時的位置</string>
+	<key>input_location</key>
+	<string>輸入位置</string>
+	<key>Breakfast</key>
+	<string>早餐</string>
+	<key>Lunch</key>
+	<string>午餐</string>
+	<key>Afternoon tea/ Snack</key>
+	<string>下午茶</string>
+	<key>Dinner</key>
+	<string>晚餐</string>
+	<key>Seasonal</key>
+	<string>季節性</string>
+	<key>export</key>
+	<string>輸出</string>
+	<key>term_and_con</key>
+	<string>透過使用健易達手機應用程式，即表示你同意並接受所有此服務的條款及細則。若你不同意任何相關的條款及細則，請勿使用健易達手機應用程式。你可查閱以下的條款及細則︰ </string>
+	<key>received_readings_and_uploading</key>
+	<string>上載完成</string>
+	<key>measurement</key>
+	<string>量度</string>
+	<key>record</key>
+	<string>記錄</string>
+	<key>fasting</key>
+	<string>空腹</string>
+	<key>before_meal</key>
+	<string>餐前</string>
+	<key>after_meal</key>
+	<string>餐後</string>
+	<key>not_specified</key>
+	<string>不註明</string>
+	<key>alert_input_message</key>
+	<string>請輸入完整信息</string>
+	<key>alert_systolic_message</key>
+	<string>請正確輸入你的收縮壓</string>
+	<key>alert_diastolic_message</key>
+	<string>請正確輸入你的舒張壓</string>
+	<key>alert_bg_message</key>
+	<string>請正確輸入你的血糖值</string>
+	<key>alert_heartrate_message</key>
+	<string>請正確輸入你的心跳率</string>
+	<key>alert_weight_message</key>
+	<string>請正確輸入你的BMI</string>
+	<key>cm_unit</key>
+	<string>厘米</string>
+	<key>inch_unit</key>
+	<string>吋</string>
+	<key>male_unit</key>
+	<string>男</string>
+	<key>female_unit</key>
+	<string>女</string>
+	<key>kg_unit</key>
+	<string>公斤</string>
+	<key>lb_unit</key>
+	<string>磅</string>
+	<key>feet_in_unit</key>
+	<string>尺，吋</string>
+	<key>info_error_birth</key>
+	<string>請正確輸入你的出生年份</string>
+	<key>info_error_gender</key>
+	<string>請輸入你的性別</string>
+	<key>info_error_weight</key>
+	<string>請正確輸入你的體重</string>
+	<key>info_error_height</key>
+	<string>請正確輸入你的身高</string>
+	<key>info_error_circumference</key>
+	<string>請正確輸入你的腰圍</string>
+	<key>not_support_handset</key>
+	<string>你的手機暫未支援此程式</string>
+	<key>steps_every_min</key>
+	<string>步/分鐘</string>
+	<key>Set your in-app alert level</key>
+	<string>預設你的數據指標</string>
+	<key>Advisory</key>
+	<string>參考</string>
+	<key>If your heart rate is</key>
+	<string>如果你的心跳率在休息狀態下是</string>
+	<key>or</key>
+	<string>或</string>
+	<key>times per minute</key>
+	<string>次/分鐘</string>
+	<key>You should consider seeing a clinician.</key>
+	<string>請考慮尋求醫護人員協助</string>
+	<key>Source:</key>
+	<string>資料來源：</string>
+	<key>Hong Kong Hospital Authority</key>
+	<string>香港醫院管理局</string>
+	<key>For Asian</key>
+	<string>亞洲人</string>
+	<key>For non-Asian</key>
+	<string>非亞洲人</string>
+	<key>If you have exceeded the normal Body Mass Index,Please consider seeing a dietitian or doctor for inquines</key>
+	<string>如果你嘅身體質量指數高於正常數值，請尋求營養師或醫護人員協助</string>
+	<key>Hong Kong Hospital Authority, American Heart Association,American Diabetes Association,World Health Organization and Dr.Albert Leung</key>
+	<string>香港醫院管理局及美國心臟協會</string>
+	<key>upload_succ</key>
+	<string>上載成功</string>
+	<key>sys_len</key>
+	<string>─  收縮壓</string>
+	<key>dia_len</key>
+	<string>─  舒張壓</string>
+	<key>hr_len</key>
+	<string>─  心跳率</string>
+	<key>sys_len_pl</key>
+	<string>--- 預設收縮壓</string>
+	<key>dia_len_pl</key>
+	<string>--- 預設舒張壓</string>
+	<key>hr_len_pl</key>
+	<string>--- 預設心跳率</string>
+	<key>bp_graph_leftlen</key>
+	<string>血壓/mmHg</string>
+	<key>hr_graph_leftlen</key>
+	<string>心跳率/bpm</string>
+	<key>7d</key>
+	<string>7天</string>
+	<key>14d</key>
+	<string>14天</string>
+	<key>1m</key>
+	<string>1個月</string>
+	<key>3m</key>
+	<string>3個月</string>
+	<key>before_len</key>
+	<string>─  餐前血糖值</string>
+	<key>after_len</key>
+	<string>─  餐後血糖值</string>
+	<key>fasting_len</key>
+	<string>─  空腹血糖值</string>
+	<key>before_len_pl</key>
+	<string>--- 預設餐前血糖值</string>
+	<key>after_len_pl</key>
+	<string>--- 預設餐後血糖值</string>
+	<key>fasting_len_pl</key>
+	<string>--- 預設空腹血糖值</string>
+	<key>weight_len</key>
+	<string>─  體重</string>
+	<key>bmi_len</key>
+	<string>─  身體質量指數(BMI)</string>
+	<key>bmi_len_pl</key>
+	<string>--- 預設身體質量指數(BMI)</string>
+	<key>weekly</key>
+	<string>每週</string>
+	<key>monthly</key>
+	<string>每月</string>
+	<key>average</key>
+	<string>平均</string>
+	<key>dashboard_sort</key>
+	<string>你可長按以下方塊，再任意搬移，以自訂圖表的排列次序。</string>
+	<key>lb</key>
+	<string>磅</string>
+	<key>message</key>
+	<string>健康資訊</string>
+	<key>manage_message</key>
+	<string>訊息管理</string>
+	<key>network_unavailable</key>
+	<string>網絡錯誤</string>
+	<key>firstlogin</key>
+	<string>首次登入</string>
+	<key>learn_walk_tx2</key>
+	<string>如果你有興趣享用健易達全部功能，請即前往特許代理登記服務及購買指定量度儀器。</string>
+	<key>learn_walk_tx1</key>
+	<string>要更詳細了解健康步行，請觀看以下短片。</string>
+	<key>test</key>
+	<string>2222</string>
+	<key>weight_info_label_1</key>
+	<string>資料</string>
+	<key>weight_info_label_2</key>
+	<string>BMI的正常範圍(亞洲人)是18.5 - 22.9。</string>
+	<key>weight_info_label_3</key>
+	<string>BMI的正常範圍(非亞洲人)是18.5 - 24.9。</string>
+	<key>no_network_tx</key>
+	<string>你必須連接至流動數據網絡或Wi-Fi網絡，方可登入健易達</string>
+	<key>Import to Calendae</key>
+	<string>導出至行事曆</string>
+	<key>cals_intake</key>
+	<string> ─ 卡路里攝取量</string>
+	<key>cals_burned</key>
+	<string> ─ 卡路里消耗</string>
+	<key>Done and go to Calendar</key>
+	<string>確定並進入行事曆</string>
+	<key>unspecified_chart_text</key>
+	<string>─  不註明血糖值</string>
+	<key>unspecified_chart_level_text</key>
+	<string>--- 預設不註明血糖值</string>
+	<key>choose_one</key>
+	<string>請選擇其一</string>
+	<key>/hour</key>
+	<string>/小時</string>
+	<key>speed</key>
+	<string>平均速度</string>
+	<key>flower_name_input_error</key>
+	<string>-你棵植物嘅名字可以由中文、 英文及/或數字組成\n-最多可包含15位字元</string>
+	<key>Try Now</key>
+	<string>?</string>
+	<key>Awards</key>
+	<string>獎項</string>
+	<key>Plant Status</key>
+	<string>植物狀態</string>
+	<key>Reward Scheme</key>
+	<string>奬賞計劃</string>
+	<key>Visit</key>
+	<string>去</string>
+	<key>My plant name</key>
+	<string>輸入你的植物名</string>
+	<key>Plant name</key>
+	<string>植物名字</string>
+	<key>Obtaining date</key>
+	<string>獲得日期</string>
+	<key>w_trophy_title</key>
+	<string>獎盃</string>
+	<key>Congratulations!</key>
+	<string>恭喜！</string>
+	<key>award_cw_detail_tx</key>
+	<string>你喺「隨意行」步行所消秏嘅能量將轉化為養分，助你揀選嘅植物茁壯成長。立即建立良好步行習慣，並享受箇中樂趣！</string>
+	<key>Tomato tree</key>
+	<string>蕃茄樹</string>
+	<key>Orange tree</key>
+	<string>橙樹</string>
+	<key>Lemon tree</key>
+	<string>檸檬樹</string>
+	<key>data_loading</key>
+	<string>數據下載中...</string>
+	<key>demo_data_only</key>
+	<string>**數據只作示範之用**</string>
+	<key>select_type_tx</key>
+	<string> 選擇你的植物類型：</string>
+	<key>detail_btn_tx</key>
+	<string>詳情</string>
+	<key>result_toast_tx</key>
+	<string>-你棵植物嘅名字可以由中文、 英文及/或數字組成\n-最多可包含15位字元</string>
+	<key>Medicine picture:</key>
+	<string>藥物圖片:</string>
+	<key>howuse_bp_newContext</key>
+	<string>1.將血壓計袖套穿於手臂\n2.按血壓計上Start/Stop鍵開始量度\n3.手機屏幕將顯示讀數</string>
+	<key>howuse_bg_newContext</key>
+	<string>1.插入試紙到血糖機\n2.採血並滴在試紙上\n3.當血糖機顯示量度讀數後，取出試紙\n4.當血糖機屏幕空白時，同時按著&lt;&gt;及背後2個按鍵3秒\n5.手機屏幕顯示讀數後，選擇量度時段，再按完成</string>
+	<key>howuse_weight_newContext</key>
+	<string>1.站立在體重磅上以開始量度\n2.手機屏幕將顯示讀數</string>
+	<key>Take Photo</key>
+	<string>拍照</string>
+	<key>Choose Photo</key>
+	<string>選擇照片</string>
+	<key>Quit</key>
+	<string>離開</string>
+	<key>Update</key>
+	<string>更新</string>
+	<key>Update now</key>
+	<string>立即更新</string>
+	<key>Remind me later</key>
+	<string>稍後更新</string>
+	<key>error_bg_mean1</key>
+	<string>試紙可能已經受損，或是沒有正確插入。</string>
+	<key>error_bg_mean2</key>
+	<string>啟動晶片/啟動牌不正確。</string>
+	<key>error_bg_mean3</key>
+	<string>你的血糖可能非常高或已經發生血糖機或試紙錯誤。</string>
+	<key>error_bg_mean4</key>
+	<string>試紙吸血量或吸入品管/質控液量不足，或在開始檢測後才滴入血液。</string>
+	<key>error_bg_mean5</key>
+	<string>若使用白色啟動晶片/啟動牌，會顯示這則訊息。這表示白色啟動晶片/啟動牌來自過期批號的試紙。</string>
+	<key>error_bg_mean6</key>
+	<string>血液符號閃爍前，就已將血液或品管/質控液滴到試紙上。</string>
+	<key>error_bg_mean7</key>
+	<string>電子故障，或偶爾也可能出現用過的試紙被取出後又重新放入的情況。</string>
+	<key>error_bg_mean8</key>
+	<string>溫度低於或高於合適的檢測溫度。</string>
+	<key>error_bg_mean9</key>
+	<string>電池量幾乎耗盡。</string>
+	<key>error_bg_mean10</key>
+	<string>時間與日期設定可能不正確。</string>
+	<key>error_bg_solution1</key>
+	<string>移除試紙再重新插入。如果試紙已經受損，請再插入一片新的試紙。</string>
+	<key>error_bg_solution2</key>
+	<string>關閉血糖機並插入新的啟動晶片/啟動牌。如您需要啟動晶片/啟動牌，請聯絡羅氏糖尿病照護部門/客戶服務部。</string>
+	<key>error_bg_solution3</key>
+	<string>如果檢測值證實了您的感覺，請立即聯絡專業醫護人員。
+如果檢測值與您自己的感覺不符，請再次檢測血糖。</string>
+	<key>error_bg_solution4</key>
+	<string>請更換一片新試紙並重新檢測。</string>
+	<key>error_bg_solution5</key>
+	<string>關閉血糖機並插入黑色啟動晶片/啟動牌。確認血糖機的時間、日期正確。</string>
+	<key>error_bg_solution6</key>
+	<string>請更換一片新試紙並重新檢測。</string>
+	<key>error_bg_solution7</key>
+	<string>關閉血糖機再重新打開或將電池拆下20秒後再重新裝上。再執行血糖檢測或品管/質控檢測。</string>
+	<key>error_bg_solution8</key>
+	<string>參考試紙包裝內說明書上的系統操作條件，移到適當操作條件的環境，等5分鐘過後再重新進行血糖或品管/質控檢測。請勿刻意將血糖機加熱或降溫。</string>
+	<key>error_bg_solution9</key>
+	<string>請立即更換電池。如果更換電池後這則訊息再次出現，重新設定血糖機。重新設定血糖機要先移除電池，按壓任何血糖機按鍵，然後再次放入電池。</string>
+	<key>error_bg_solution10</key>
+	<string>若有需要，請檢查時間與日期是否正確，必要時請修改。</string>
+	<key>error_weight_Lo_mean</key>
+	<string>低電顯示。</string>
+	<key>error_weight_Lo_solution</key>
+	<string>請更換電池。</string>
+	<key>error_weight_oL_mean</key>
+	<string>超重預警。</string>
+	<key>error_weight_oL_solution</key>
+	<string>立即移除磅面上的重量，否則將對磅秤造成永久性傷害。</string>
+	<key>trouble_shoot</key>
+	<string>疑難排解</string>
+	<key>error_text_title</key>
+	<string>量度儀器內的錯誤訊息 </string>
+	<key>error_mean</key>
+	<string>說明</string>
+	<key>error_solution</key>
+	<string>解決方法</string>
+	<key>Weak signal or pressure change suddenly.</key>
+	<string>訊號太小或壓力驟變。</string>
+	<key>External strong disturbance.</key>
+	<string>外部干擾信號太大。</string>
+	<key>It appears error during the process of inflating.</key>
+	<string>充氣錯誤。</string>
+	<key>Abnormal blood pressure.</key>
+	<string>血壓異常。</string>
+	<key>Wrap the cuff properly and remeasure with correct way.</key>
+	<string>請確認臂帶是否按正確的方法綁好、綁緊、綁的位置是否正確；排除不正確的測量方式後再用正確的方式重新測量。</string>
+	<key>When near cell phone or other high radiant device, the measurement will be failed. Keep quite and no chatting when measure.</key>
+	<string>測量時要遠離有強干擾的設備，如手機、馬達等強干擾源的場合，再重新測量；保持手臂和身體不要隨意亂動並保持安靜的測量血壓。</string>
+	<key>Wrap the cuff properly, make sure that the air plug is properly inserted in the unit and remeasure.</key>
+	<string>請確認氣管是否打摺，排除後再重新測量；請確認氣管、氣管接頭與本體之間是否連接緊密，氣管和臂帶是否已破裂等；排除後再重新測量。</string>
+	<key>Repeat the measurement after relax for 30 mins, if get unusual readings for 3 times, please contact your doctor.</key>
+	<string>請休息30分鐘後，再重新測試，如果連續3次異常，請到醫院或諮詢您的個人醫生。</string>
+	<key>password_a</key>
+	<string>smartone</string>
+	<key>state</key>
+	<string>state</string>
+</dict>
+</plist>

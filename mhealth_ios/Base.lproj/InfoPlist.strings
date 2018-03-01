@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  mHealth
+
+  Created by smartone_sn on 14-8-13.
+
+*/
+CFBundleDisplayName = "HealthReach";
+CFBundleName = "HealthReach";

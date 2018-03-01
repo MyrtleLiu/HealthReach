@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>tc</key>
+	<string>Term &amp; Conditions</string>
+	<key>label_bp_if_your</key>
+	<string>If your</string>
+	<key>share_tx2</key>
+	<string>Enter an 8-digit mobile number for local mobile numbers, for example:91234567.</string>
+	<key>label_fasting</key>
+	<string>Fasting:    </string>
+	<key>label_systolic</key>
+	<string>Systolic </string>
+	<key>cal_target</key>
+	<string>Calorie Burn Target</string>
+	<key>w_walk_text</key>
+	<string>Walk right now at your own pace</string>
+	<key>invalid_param</key>
+	<string>The note only support 200 characters.</string>
+	<key>Calendar Note</key>
+	<string>Note:</string>
+	<key>d_text</key>
+	<string>90 mins/day | 140 steps/min | 5 out of 7 days</string>
+	<key>w_advise</key>
+	<string>We advise you to consult your clinician before starting your exercise regime.</string>
+	<key>home_title_Route</key>
+	<string>Route</string>
+	<key>Time2</key>
+	<string>Time2:</string>
+	<key>w_train_title</key>
+	<string>Training Programme</string>
+	<key>label_bg_source</key>
+	<string>Hong Kong Hospital Authority, American Diabetes Association</string>
+	<key>preset_level_tx3</key>
+	<string>Setting up or amending the preset levels for caregiver alerts requires you, togeth with the registered HealthReach customer, to do at authorised dealers.</string>
+	<key>tr_stop</key>
+	<string>Stop Programme</string>
+	<key>home_title_BloodGlucose</key>
+	<string>Blood Glucose</string>
+	<key>How to use</key>
+	<string>How to use</string>
+	<key>label_bp_desc_high_1</key>
+	<string>Hypertensive crisis is documented.</string>
+	<key>b_text_1</key>
+	<string>30 mins and 80 steps/min,</string>
+	<key>Starteday</key>
+	<string>S</string>
+	<key>ECG</key>
+	<string>ECG</string>
+	<key>label_advisory</key>
+	<string>References</string>
+	<key>home_title_Dairy</key>
+	<string>HealthReach Calendar</string>
+	<key>label_diastolic_equal</key>
+	<string>Diastolic = </string>
+	<key>Medicine</key>
+	<string>Medicine:</string>
+	<key>weight_unit</key>
+	<string>lbs</string>
+	<key>Time3</key>
+	<string>Time3:</string>
+	<key>Calendar Start</key>
+	<string>Start:</string>
+	<key>label_diastolic_high</key>
+	<string> &gt; 110</string>
+	<key>home_title_BloodPressure</key>
+	<string>Blood Pressure</string>
+	<key>Daily Medication</key>
+	<string>Daily Medication</string>
+	<key>Calendar End</key>
+	<string>End:</string>
+	<key>km_unit</key>
+	<string>km</string>
+	<key>weight_unit_kg</key>
+	<string>kg</string>
+	<key>label_before_meal</key>
+	<string>Before meal:</string>
+	<key>hr_title</key>
+	<string>RATE</string>
+	<key>howuse_bg</key>
+	<string>Blood Glucose measurement:</string>
+	<key>label_bg_low_1</key>
+	<string>≥ 7</string>
+	<key>label_bg_or_low_2</key>
+	<string> mmol/L(2 hours after meal)</string>
+	<key>w_gold_title</key>
+	<string>Gold</string>
+	<key>confirm_btn</key>
+	<string>Confirm</string>
+	<key>home_title_Planner</key>
+	<string>Planner</string>
+	<key>label_mmol</key>
+	<string> mmol/L</string>
+	<key>alert_button_txt</key>
+	<string>OK</string>
+	<key>delete</key>
+	<string>Delete</string>
+	<key>Time4</key>
+	<string>Time4:</string>
+	<key>howuse_weight</key>
+	<string>Weight/BMI measurement:</string>
+	<key>Calendar Date</key>
+	<string>Date:</string>
+	<key>tr_start</key>
+	<string>Start</string>
+	<key>howuse_bp</key>
+	<string>Blood Pressure measurement:</string>
+	<key>cal_label</key>
+	<string>Calories</string>
+	<key>b_text</key>
+	<string>30 mins/day | 80 steps/min | 5 out of 7 days</string>
+	<key>train_history_finish</key>
+	<string>Completed</string>
+	<key>Calendar Title</key>
+	<string>Title:</string>
+	<key>pace_unit</key>
+	<string>steps     /min</string>
+	<key>authorised_de</key>
+	<string>Authorised dealers</string>
+	<key>w_train_text</key>
+	<string>Tiered programmes for all ages and fitness levels</string>
+	<key>plan_route</key>
+	<string>Plan route</string>
+	<key>label_mmhg</key>
+	<string> mmHg</string>
+	<key>Others</key>
+	<string>Others</string>
+	<key>skip</key>
+	<string>Skip</string>
+	<key>Events Summary</key>
+	<string>Events Summary</string>
+	<key>login_setting</key>
+	<string>Login Settings</string>
+	<key>save</key>
+	<string>Save</string>
+	<key>Time5</key>
+	<string>Time5:</string>
+	<key>ok</key>
+	<string>OK</string>
+	<key>Congratulations!</key>
+	<string>Congratulations!</string>
+	<key>share_tx3</key>
+	<string>Enter an +country code mobile number for overseas mobile numbers, for example:+8613512345678</string>
+	<key>Edit</key>
+	<string>Edit</string>
+	<key>Add Event</key>
+	<string>Add Event</string>
+	<key>btn_reset</key>
+	<string>Reset</string>
+	<key>Blood Pressure</key>
+	<string>Blood Pressure</string>
+	<key>train_history_process</key>
+	<string>In progress</string>
+	<key>about_healthreach</key>
+	<string>About HealthReach</string>
+	<key>howuse_cal</key>
+	<string>Calorie Reckoner:</string>
+	<key>sys_title</key>
+	<string>SYS</string>
+	<key>start_btn</key>
+	<string>Start</string>
+	<key>Day</key>
+	<string>Day</string>
+	<key>duration_label</key>
+	<string>Time</string>
+	<key>Tuesday</key>
+	<string>T</string>
+	<key>dia_title</key>
+	<string>DIA</string>
+	<key>home_title_CaloriesReckoner</key>
+	<string>Calorie Reckoner</string>
+	<key>s_text</key>
+	<string>45 mins/day | 100 steps/min | 5 out of 7 days</string>
+	<key>Time6</key>
+	<string>Time6:</string>
+	<key>Blood Glucose</key>
+	<string>Blood Glucose</string>
+	<key>invalid_session</key>
+	<string>This account has been logged in on other device, please log out that device first.</string>
+	<key>cancel</key>
+	<string>Cancel</string>
+	<key>label_systolic_high</key>
+	<string> &gt; 180</string>
+	<key>btn_ok</key>
+	<string>OK</string>
+	<key>label_set_in_app_level</key>
+	<string>Define your preset levels</string>
+	<key>cal_unit</key>
+	<string>Cal</string>
+	<key>step_unit</key>
+	<string>steps</string>
+	<key>label_systolic_equal</key>
+	<string>Systolic  = </string>
+	<key>add_weight_title</key>
+	<string>Add New Record</string>
+	<key>w_diamond_title</key>
+	<string>Diamond</string>
+	<key>train_history_unfinish</key>
+	<string>Failed</string>
+	<key>alert_title_ecg</key>
+	<string>ECG recorder</string>
+	<key>s_text_1</key>
+	<string>45 mins and 100 steps/min,</string>
+	<key>label_systolic_low</key>
+	<string> &gt; 140</string>
+	<key>resume_btn</key>
+	<string>Resume</string>
+	<key>userinfo</key>
+	<string>User Information</string>
+	<key>Before meal</key>
+	<string>Before meal</string>
+	<key>label_bg_if_your</key>
+	<string>If your blood glucose level is</string>
+	<key>history_title</key>
+	<string>History</string>
+	<key>about</key>
+	<string>About HealthReach</string>
+	<key>stop_btn</key>
+	<string>Stop</string>
+	<key>w_walk_title</key>
+	<string>Casual Walk</string>
+	<key>home_title_forHealth</key>
+	<string>for Health</string>
+	<key>howuse_ecg</key>
+	<string>ECG measurement:</string>
+	<key>alert_title_ecg_msg2</key>
+	<string>Android platform</string>
+	<key>done</key>
+	<string>Done</string>
+	<key>missing_parameter</key>
+	<string>Missing required parameter(s).</string>
+	<key>pace_label</key>
+	<string>Pace</string>
+	<key>language</key>
+	<string>Language</string>
+	<key>w_history</key>
+	<string>History</string>
+	<key>terms</key>
+	<string>Terms and Conditions for HealthReach</string>
+	<key>invalid_parameter</key>
+	<string>The action parameter is invalid.</string>
+	<key>tr_current_title</key>
+	<string>Current Progress</string>
+	<key>loginmetho</key>
+	<string>Login Method</string>
+	<key>Monday</key>
+	<string>M</string>
+	<key>pairing</key>
+	<string>Pairing</string>
+	<key>Frequency</key>
+	<string>Frequency:</string>
+	<key>presetlevel</key>
+	<string>Preset Levels</string>
+	<key>Daily Measurement</key>
+	<string>Daily Measurement</string>
+	<key>label_bp_source</key>
+	<string>American Heart Association</string>
+	<key>share_tx1</key>
+	<string>Recipient&apos;s mobile number:</string>
+	<key>Month</key>
+	<string>Month</string>
+	<key>enqueir</key>
+	<string>Enquiry:</string>
+	<key>share_tx4</key>
+	<string>Re-enter mobile number:</string>
+	<key>prepare_measure</key>
+	<string>Measurement</string>
+	<key>label_bg_desc_low_2</key>
+	<string>Please consider seeing a clinician.</string>
+	<key>label_bp_or</key>
+	<string> mmHg or</string>
+	<key>privacy</key>
+	<string>Privacy Policy</string>
+	<key>privacy_po</key>
+	<string>Privacy Policy</string>
+	<key>bloodpressure</key>
+	<string>Blood Pressure</string>
+	<key>step_label</key>
+	<string>Steps</string>
+	<key>g_text</key>
+	<string>60 mins/day | 120 steps/min | 5 out of 7 days</string>
+	<key>Done</key>
+	<string>Done</string>
+	<key>share_health_data</key>
+	<string>Share Health Data</string>
+	<key>News</key>
+	<string>What&apos;s New</string>
+	<key>distance_label</key>
+	<string>Distance</string>
+	<key>share_data_tx1</key>
+	<string>Enter your recipient&apos;s mobile number so that he/she can receive a 24-hour passcode to view your vital health signs measurement record at www.healthreach.com.hk/login3.</string>
+	<key>Tirsday</key>
+	<string>T</string>
+	<key>Delete</key>
+	<string>Delete</string>
+	<key>Delete Medicine</key>
+	<string>Delete Medicine</string>
+	<key>home_title_Weight</key>
+	<string>Weight</string>
+	<key>bloodglucose</key>
+	<string>Blood Glucose</string>
+	<key>Type</key>
+	<string>Type:</string>
+	<key>history_data</key>
+	<string>History</string>
+	<key>frequently</key>
+	<string>Frequently Asked Questions</string>
+	<key>tr_choose</key>
+	<string>Please choose from the walking programmes below to start your Walk for Health.</string>
+	<key>alert_title_ecg_msg1</key>
+	<string>is only supported on</string>
+	<key>home_title_ECG</key>
+	<string>ECG</string>
+	<key>N/A</key>
+	<string>N/A</string>
+	<key>label_bg_desc_low_1</key>
+	<string>Disbetes is documented.</string>
+	<key>HealthReach Calendar</key>
+	<string>HealthReach Calendar</string>
+	<key>about_page_toptext</key>
+	<string>HealthReach encourages lifestyle change and health improvement through walking exercise, diet management and tracking of vital health signs.</string>
+	<key>Firday</key>
+	<string>F</string>
+	<key>personalinfo</key>
+	<string>Personal Information</string>
+	<key>label_diastolic_low</key>
+	<string> &gt; 90</string>
+	<key>label_bp_desc_low_2</key>
+	<string>You should consider seeing a clinician.</string>
+	<key>tr_continue</key>
+	<string>Continue</string>
+	<key>perset_level_tx1</key>
+	<string>Define your preset levels. Reading will appear in red when measurement results exceed preset levels.</string>
+	<key>label_diastolic</key>
+	<string>Diastolic</string>
+	<key>After meal</key>
+	<string>After meal</string>
+	<key>howuse_calendar</key>
+	<string>HealthReach Calendar:</string>
+	<key>label_after_meal</key>
+	<string>After meal: </string>
+	<key>Dosage</key>
+	<string>Dosage:</string>
+	<key>sys_error</key>
+	<string>There is the system error.</string>
+	<key>per day</key>
+	<string>per day</string>
+	<key>label_source</key>
+	<string>Source:</string>
+	<key>d_text_1</key>
+	<string>90 mins and 140 steps/min, </string>
+	<key>Exercise</key>
+	<string>Exercise</string>
+	<key>walkforhealth</key>
+	<string>Walk for Health</string>
+	<key>tr_days</key>
+	<string>5 out of 7 days</string>
+	<key>Wendsday</key>
+	<string>W</string>
+	<key>label_bp_desc_low_1</key>
+	<string>Stage 1 Hypertension is documented.</string>
+	<key>personalisation</key>
+	<string>Personalisation</string>
+	<key>label_bp_desc_high_2</key>
+	<string>Emergency care is needed.</string>
+	<key>pause_btn</key>
+	<string>Pause</string>
+	<key>perset_level_tx2</key>
+	<string>You are advised to consult your doctor in order to determine what are the appropriate levels for you, and if you wish to activate the various alerts.</string>
+	<key>perset_level_tx3</key>
+	<string>Setting up or a amending the preset levels for caregiver alerts requires you, together with the registered Healthreach customer, to do at authorised dealers.</string>
+	<key>home_title_Walk</key>
+	<string>Walk</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>back</key>
+	<string>Back</string>
+	<key>general</key>
+	<string>General Terms and Conditions</string>
+	<key>record_exist</key>
+	<string>The record already exists.</string>
+	<key>Time1</key>
+	<string>Time1:</string>
+	<key>label_bg_or_low_1</key>
+	<string> mmol/L(Fasting)or</string>
+	<key>Sunday</key>
+	<string>S</string>
+	<key>w_bronze_title</key>
+	<string>Bronze</string>
+	<key>w_silver_title</key>
+	<string>Silver</string>
+	<key>label_bg_low_2</key>
+	<string>≥ 11.1</string>
+	<key>howuse_walk</key>
+	<string>Walk for Health:</string>
+	<key>g_text_1</key>
+	<string>60 mins and 120 steps/min,</string>
+	<key>heart_rate</key>
+	<string>Heart Rate</string>
+	<key>body_mass</key>
+	<string>Body Mass Index(BMI)</string>
+	<key>preset_bp</key>
+	<string>Blood Pressure</string>
+	<key>preset_bg</key>
+	<string>Blood Glucose</string>
+	<key>personalinfo_toptx</key>
+	<string>You can edit your personal information as follow:</string>
+	<key>personalinfo_birthtitle</key>
+	<string>Year of Birth</string>
+	<key>personalinfo_gendertitle</key>
+	<string>Gender</string>
+	<key>personalinfo_weighttitle</key>
+	<string>Weight</string>
+	<key>personalinfo_heighttitle</key>
+	<string>Height</string>
+	<key>personalinfo_circum</key>
+	<string>Mid waist circumference</string>
+	<key>planroute_duration</key>
+	<string>Duration:</string>
+	<key>planroute_distance</key>
+	<string>Distance:</string>
+	<key>planroute_calories</key>
+	<string>Calories:</string>
+	<key>planroute_action</key>
+	<string>Route Planner</string>
+	<key>planroute_circu_tx1</key>
+	<string>Set Circulation Path</string>
+	<key>composite_bmi</key>
+	<string>BMI</string>
+	<key>composite_walk</key>
+	<string>Walking duration</string>
+	<key>composite_cal</key>
+	<string>Calorie</string>
+	<key>dashboard</key>
+	<string>Dashboard</string>
+	<key>chartTime1</key>
+	<string>1 Week</string>
+	<key>chartTime2</key>
+	<string>14 Days</string>
+	<key>chartTime3</key>
+	<string>1 Month</string>
+	<key>chartTime4</key>
+	<string>3 Months</string>
+	<key>Heart Rate</key>
+	<string>Heart Rate</string>
+	<key>Set your in-app alert level</key>
+	<string>Set your in-app alert level</string>
+	<key>Advisory</key>
+	<string>Advisory</string>
+	<key>Body Mass Index</key>
+	<string>Body Mass Index</string>
+	<key>share_result</key>
+	<string>A 24-hour passcode has been sent to the designated recipient</string>
+	<key>next_btn</key>
+	<string>Next</string>
+	<key>fisttimeSlideDont</key>
+	<string>Don&apos;t show again</string>
+	<key>dont_show_again</key>
+	<string>Don&apos;t show again</string>
+	<key>food_planner_tx</key>
+	<string>Calories:</string>
+	<key>food_planner_calunit1</key>
+	<string>Cal/</string>
+	<key>start_measurement_now</key>
+	<string>Start measurement now</string>
+	<key>please_choose_food</key>
+	<string>Please choose food</string>
+	<key>show_detail_step</key>
+	<string>Show detail step</string>
+	<key>select_food</key>
+	<string>Select food</string>
+	<key>items</key>
+	<string>items</string>
+	<key>home_title_cals</key>
+	<string>Calorie Reckoner</string>
+	<key>total_calories</key>
+	<string>Total Calories:</string>
+	<key>total_calories_cal</key>
+	<string>Cal</string>
+	<key>indication_only</key>
+	<string>Photos and calories are for indication only</string>
+	<key>to_burn</key>
+	<string>To burn</string>
+	<key>you_can_walk</key>
+	<string>, you can walk:</string>
+	<key>steps</key>
+	<string>Steps</string>
+	<key>min</key>
+	<string>/ min</string>
+	<key>km</key>
+	<string>km</string>
+	<key>start_walking</key>
+	<string>Start walking</string>
+	<key>calorie_burner</key>
+	<string>Calorie Burner</string>
+	<key>planning_route</key>
+	<string>Planning route</string>
+	<key>use_current_location</key>
+	<string>Use current location</string>
+	<key>input_location</key>
+	<string>Input location</string>
+	<key>Breakfast</key>
+	<string>Breakfast</string>
+	<key>Lunch</key>
+	<string>Lunch</string>
+	<key>Afternoon tea/ Snack</key>
+	<string>Tea</string>
+	<key>Dinner</key>
+	<string>Dinner</string>
+	<key>Seasonal</key>
+	<string>Seasonal</string>
+	<key>export</key>
+	<string>Export</string>
+	<key>term_and_con</key>
+	<string>By using this HealthReach app, you acknowledge and agree to our terms and conditions. If you do not agree to any of these terms and conditions, you must not use this HealthReach app. You can view these terms and conditions at the following:</string>
+	<key>received_readings_and_uploading</key>
+	<string>Uploaded Successfully</string>
+	<key>measurement</key>
+	<string>Measurement</string>
+	<key>record</key>
+	<string>Record</string>
+	<key>alert_input_message</key>
+	<string>Please input the data</string>
+	<key>alert_systolic_message</key>
+	<string>Please set your systolic level</string>
+	<key>alert_diastolic_message</key>
+	<string>Please set your diastolic level</string>
+	<key>alert_bg_message</key>
+	<string>Please set your blood glucose level</string>
+	<key>alert_heartrate_message</key>
+	<string>Please set your heart rate level</string>
+	<key>alert_weight_message</key>
+	<string>Please set your weight level</string>
+	<key>cm_unit</key>
+	<string>cm</string>
+	<key>inch_unit</key>
+	<string>inch</string>
+	<key>male_unit</key>
+	<string>Male</string>
+	<key>female_unit</key>
+	<string>Female</string>
+	<key>kg_unit</key>
+	<string>kg</string>
+	<key>lb_unit</key>
+	<string>lb</string>
+	<key>feet_in_unit</key>
+	<string>ft,in</string>
+	<key>info_error_birth</key>
+	<string>Please input your birthday</string>
+	<key>info_error_gender</key>
+	<string>Please input your gender</string>
+	<key>info_error_weight</key>
+	<string>Please input your weight</string>
+	<key>info_error_height</key>
+	<string>Please input your height</string>
+	<key>info_error_circumference</key>
+	<string>Please input your mid waist circumference</string>
+	<key>fasting</key>
+	<string>Fasting</string>
+	<key>before_meal</key>
+	<string>Before meal</string>
+	<key>after_meal</key>
+	<string>After meal</string>
+	<key>not_specified</key>
+	<string>Not specified</string>
+	<key>not_support_handset</key>
+	<string>This application is not supported by your handset</string>
+	<key>steps_every_min</key>
+	<string>steps/min</string>
+	<key>If your heart rate is</key>
+	<string>If your heart rate is</string>
+	<key>or</key>
+	<string>or</string>
+	<key>times per minute</key>
+	<string>times per minute</string>
+	<key>You should consider seeing a clinician.</key>
+	<string>You should consider seeing a clinician.</string>
+	<key>Source:</key>
+	<string>Source:</string>
+	<key>Hong Kong Hospital Authority</key>
+	<string>Hong Kong Hospital Authority</string>
+	<key>For Asian</key>
+	<string>For Asian</string>
+	<key>For non-Asian</key>
+	<string>For non-Asian</string>
+	<key>If you have exceeded the normal Body Mass Index,Please consider seeing a dietitian or doctor for inquines</key>
+	<string>If you have exceeded the normal Body Mass Index,Please consider seeing a dietitian or doctor for inquines</string>
+	<key>Hong Kong Hospital Authority, American Heart Association,American Diabetes Association,World Health Organization and Dr.Albert Leung</key>
+	<string>Hong Kong Hospital Authority, American Heart Association,American Diabetes Association,World Health Organization and Dr.Albert Leung</string>
+	<key>upload_succ</key>
+	<string>Uploaded successfully</string>
+	<key>sys_len</key>
+	<string>─  Systolic</string>
+	<key>dia_len</key>
+	<string>─  Diastolic</string>
+	<key>hr_len</key>
+	<string>─  Heart Rate</string>
+	<key>sys_len_pl</key>
+	<string>--- Systolic Preset level</string>
+	<key>dia_len_pl</key>
+	<string>--- Diastolic Preset level</string>
+	<key>hr_len_pl</key>
+	<string>--- Heart Rate Preset level</string>
+	<key>bp_graph_leftlen</key>
+	<string>Blood Pressure/mmHg</string>
+	<key>hr_graph_leftlen</key>
+	<string>Heart Rate/bpm</string>
+	<key>7d</key>
+	<string>7d</string>
+	<key>14d</key>
+	<string>14d</string>
+	<key>1m</key>
+	<string>1m</string>
+	<key>3m</key>
+	<string>3m</string>
+	<key>before_len</key>
+	<string>─  Before meal</string>
+	<key>after_len</key>
+	<string>─  After meal</string>
+	<key>fasting_len</key>
+	<string>─  Fasting</string>
+	<key>before_len_pl</key>
+	<string>--- Before meal Preset level</string>
+	<key>after_len_pl</key>
+	<string>--- After meal Preset level</string>
+	<key>fasting_len_pl</key>
+	<string>--- Fasting Preset level</string>
+	<key>weight_len</key>
+	<string>─  Weight</string>
+	<key>bmi_len</key>
+	<string>─  BMI</string>
+	<key>bmi_len_pl</key>
+	<string>--- BMI Preset level</string>
+	<key>weekly</key>
+	<string>Weekly</string>
+	<key>monthly</key>
+	<string>Monthly</string>
+	<key>average</key>
+	<string>Average</string>
+	<key>dashboard_sort</key>
+	<string>You can prioritise graphs by holding onto the below boxes to shift the order.</string>
+	<key>lb</key>
+	<string>lb</string>
+	<key>message</key>
+	<string>Health Articles</string>
+	<key>manage_message</key>
+	<string>Manage Message</string>
+	<key>network_unavailable</key>
+	<string>Network unavailable</string>
+	<key>firstlogin</key>
+	<string>1st time Login</string>
+	<key>learn_walk_tx2</key>
+	<string>To enjoy all the features of HealthReach, please visit our authorised dealers for subscription and purchase the compatible connected devices.</string>
+	<key>learn_walk_tx1</key>
+	<string>Walk for Health demonstration video:</string>
+	<key>test</key>
+	<string>1111</string>
+	<key>weight_info_label_2</key>
+	<string>The normal BMI range for an Asian adult is 18.5 - 22.0</string>
+	<key>weight_info_label_3</key>
+	<string>The normal BMI range for a non Asian adult is 18.5 - 24.9</string>
+	<key>weight_info_label_4</key>
+	<string>BMI = Weight(kg)  ÷ Height(m)2</string>
+	<key>no_network_tx</key>
+	<string>You must connect to a mobile data network or a Wi-Fi network to access HealthReach</string>
+	<key>Import to Calendae</key>
+	<string>Import to Calendar</string>
+	<key>cals_intake</key>
+	<string> ─ Calories intake</string>
+	<key>cals_burned</key>
+	<string> ─ Calories burned</string>
+	<key>Done and go to Calendar</key>
+	<string>Done and go to Calendar</string>
+	<key>unspecified_chart_text</key>
+	<string>─  Not specified</string>
+	<key>unspecified_chart_level_text</key>
+	<string>--- Not specified Preset level</string>
+	<key>choose_one</key>
+	<string>Please choose one</string>
+	<key>/hour</key>
+	<string>/hr</string>
+	<key>speed</key>
+	<string>Speed</string>
+	<key>flower_name_input_error</key>
+	<string>-Your plant name can be a combination of Chinese, English and/or numbers\n-It can contain a max. of 15 characters</string>
+	<key>Try Now</key>
+	<string>?</string>
+	<key>Awards</key>
+	<string>Awards</string>
+	<key>Plant Status</key>
+	<string>Plant Status</string>
+	<key>Reward Scheme</key>
+	<string>Reward Scheme</string>
+	<key>Visit</key>
+	<string>Visit</string>
+	<key>My plant name</key>
+	<string>Name your plant</string>
+	<key>Plant name</key>
+	<string>Plant name</string>
+	<key>Obtaining date</key>
+	<string>Obtaining date</string>
+	<key>w_trophy_title</key>
+	<string>Trophy</string>
+	<key>award_cw_detail_tx</key>
+	<string>The energy from your Casual Walk will transform into nutrients for the plant of your choice and make it grow. Start building a good walking habit now and have fun.  </string>
+	<key>Tomato tree</key>
+	<string>Tomato tree</string>
+	<key>Orange tree</key>
+	<string>Orange tree</string>
+	<key>Lemon tree</key>
+	<string>Lemon tree</string>
+	<key>data_loading</key>
+	<string>Data Loading...</string>
+	<key>demo_data_only</key>
+	<string>**Demo data only**</string>
+	<key>select_type_tx</key>
+	<string>Select your plant:</string>
+	<key>detail_btn_tx</key>
+	<string>Details</string>
+	<key>result_toast_tx</key>
+	<string>-Your plant name can be a combination of Chinese, English and/or numbers\n-It can contain a max. of 15 characters</string>
+	<key>Medicine picture:</key>
+	<string>Medicine picture:</string>
+	<key>howuse_bp_newContext</key>
+	<string>1. Fit the cuff around your arm\n2. Press the start/stop button to begin measurement\n3. Blood pressure reading will be displayed on handset</string>
+	<key>howuse_bg_newContext</key>
+	<string>1. Insert a test strip into the meter\n 2. Apply a droplet of blood to the teat strip\n3. After the readings are shown on the meter, remove the test trip\n4. Once the screen of the meter is blank, press&lt;&gt;and two buttons on the back at the same time for 3 seconds\n5. The blood glucose reading will be displayed on the handset, please select measurement time and press &apos;Done&apos; button</string>
+	<key>howuse_weight_newContext</key>
+	<string>1. Stand on the weight scale to begin measurement\n2. Weight result will be displayed on handset</string>
+	<key>Take Photo</key>
+	<string>Take Photo</string>
+	<key>Choose Photo</key>
+	<string>Choose Photo</string>
+	<key>Quit</key>
+	<string>Quit</string>
+	<key>Update</key>
+	<string>Update</string>
+	<key>Update now</key>
+	<string>Update now</string>
+	<key>Remind me later</key>
+	<string>Remind me later</string>
+	<key>error_bg_mean1</key>
+	<string>The test strip may be damaged or not properly inserted.</string>
+	<key>error_bg_mean2</key>
+	<string>The activation chip is incorrect.</string>
+	<key>error_bg_mean3</key>
+	<string>Your blood glucose may be extremely high or a meter or a test strip error has occurred.</string>
+	<key>error_bg_mean4</key>
+	<string>Not enough blood or control solution was drawn into the test strip for measurement or was applied after the test had started.</string>
+	<key>error_bg_mean5</key>
+	<string>This message may appear when using a white activation chip in the meter. It means the white activation chip is from an expired lot of test strips. </string>
+	<key>error_bg_mean6</key>
+	<string>Blood or control solution was applied to the test strip before the flashing drop symbol appeared on the display.</string>
+	<key>error_bg_mean7</key>
+	<string>An electronic error occurred or, in rare cases, a used test strip was removed and reinserted. </string>
+	<key>error_bg_mean8</key>
+	<string>The temperature is above or below the proper range for the system. </string>
+	<key>error_bg_mean9</key>
+	<string>The battery is almost out of power. </string>
+	<key>error_bg_mean10</key>
+	<string>The time and date settings may be incorrect.</string>
+	<key>error_bg_solution1</key>
+	<string>Remove and reinsert the test strip or replace it if damaged.</string>
+	<key>error_bg_solution2</key>
+	<string>Turn the meter off and insert a new activation chip. If you need an activation chip, contact Roche.</string>
+	<key>error_bg_solution3</key>
+	<string>If your test result matches how you feel, contact your healthcare professional immediately. 
+If your test result does not match how you feel, repeat the blood glucose test.</string>
+	<key>error_bg_solution4</key>
+	<string>Discard the test strip and repeat the test.</string>
+	<key>error_bg_solution5</key>
+	<string>Turn the meter off and insert a black activation chip. Make sure the time and date in the meter are correct.</string>
+	<key>error_bg_solution6</key>
+	<string>Discard the test strip and repeat the test.</string>
+	<key>error_bg_solution7</key>
+	<string>Turn the meter off and on, or take the battery out for 20 seconds and reinsert it. Perform a blood glucose or control test.</string>
+	<key>error_bg_solution8</key>
+	<string>Refer to the test strip package insert for system operating conditions. Move to an area with the appropriate conditions, wait 5 minutes, and repeat the blood glucose or control test. Do not artificially heat or cool the meter.</string>
+	<key>error_bg_solution9</key>
+	<string>Change the battery now. If the message reappears after the battery has been replaced, reset the meter. To rest the meter, remove the battery, press any meter button, then reinsert the battery.</string>
+	<key>error_bg_solution10</key>
+	<string>Make sure the time and date are correct and adjust, if necessary.</string>
+	<key>error_weight_Lo_mean</key>
+	<string>Battery is running low.</string>
+	<key>error_weight_Lo_solution</key>
+	<string>Replace the battery.</string>
+	<key>error_weight_oL_mean</key>
+	<string>Overload warning.</string>
+	<key>error_weight_oL_solution</key>
+	<string>Remove the weight immediately otherwise permanent damage to the scale will occur.</string>
+	<key>trouble_shoot</key>
+	<string>Trouble shooting</string>
+	<key>error_text_title</key>
+	<string>Error messages on measurement device</string>
+	<key>error_mean</key>
+	<string>Meaning</string>
+	<key>error_solution</key>
+	<string>Solution</string>
+	<key>Weak signal or pressure change suddenly.</key>
+	<string>Weak signal or pressure change suddenly.</string>
+	<key>External strong disturbance.</key>
+	<string>External strong disturbance.</string>
+	<key>It appears error during the process of inflating.</key>
+	<string>It appears error during the process of inflating.</string>
+	<key>Abnormal blood pressure.</key>
+	<string>Abnormal blood pressure.</string>
+	<key>Wrap the cuff properly and remeasure with correct way.</key>
+	<string>Wrap the cuff properly and remeasure with correct way.</string>
+	<key>When near cell phone or other high radiant device, the measurement will be failed. Keep quite and no chatting when measure.</key>
+	<string>When near cell phone or other high radiant device, the measurement will be failed. Keep quite and no chatting when measure.</string>
+	<key>Wrap the cuff properly, make sure that the air plug is properly inserted in the unit and remeasure.</key>
+	<string>Wrap the cuff properly, make sure that the air plug is properly inserted in the unit and remeasure.</string>
+	<key>Repeat the measurement after relax for 30 mins, if get unusual readings for 3 times, please contact your doctor.</key>
+	<string>Repeat the measurement after relax for 30 mins, if get unusual readings for 3 times, please contact your doctor.</string>
+	<key>password_a</key>
+	<string>smartone</string>
+	<key>state</key>
+	<string>state</string>
+</dict>
+</plist>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<dict>
+		<key>unit</key>
+		<string>mmHg</string>
+		<key>value</key>
+		<string>--</string>
+		<key>title</key>
+		<string>收縮壓</string>
+	</dict>
+	<key>2</key>
+	<dict>
+		<key>unit</key>
+		<string>mmHg</string>
+		<key>value</key>
+		<string>--</string>
+		<key>title</key>
+		<string>舒張壓</string>
+	</dict>
+	<key>3</key>
+	<dict>
+		<key>unit</key>
+		<string>bpm</string>
+		<key>value</key>
+		<string>--</string>
+		<key>title</key>
+		<string>心跳率</string>
+	</dict>
+</dict>
+</plist>
